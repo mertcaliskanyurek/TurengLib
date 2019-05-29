@@ -8,7 +8,7 @@ simple usage :
 ```
 $lang = Tureng::EN_TR;
 $inputLang = 'en';
-$word = 'welcome';
+$word = 'animal';
 
 $tureng = new Tureng($lang, $inputLang);
 $result = $tureng->translate($word);
