@@ -14,3 +14,20 @@ $tureng = new Tureng($lang, $inputLang);
 $result = $tureng->translate($word);
 
 ```
+Result:
+
+```
+{
+word: "animal",
+means: [
+"hayvan",
+"hayvan",
+"hayvani",
+"hayvansal",
+"hayvanca",
+...
+],
+sound: "http://voices.tureng.co/TR/AmE/3d/3d5905e9-1eb5-4cd7-acdb-61d5532ece14.mp3"
+}
+
+```
