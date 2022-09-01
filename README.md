@@ -1,6 +1,5 @@
 # TurengLib
-Php Tureng Library For Translate
-Simple Php Tureng translate library
+Php Tureng API For Translate words using Tureng website.
 
 there is a example in index PHP
 simple usage :
